@@ -16,6 +16,18 @@
 
 button {
     flex: 1;
+    border-color: black;
 }
 
+.button-number {
+    background-color: rgb(0, 149, 117);   
+}
+
+.button-operator {
+    background-color: orange;
+}
+
+.button-top {
+    background-color: rgb(23, 139, 234);
+}
 
