@@ -10,8 +10,17 @@
     flex: 1;    
 }
 
-.zero{
+.zero {
     flex: 0 1 50%;
+}
+
+.total {
+    background-color: gray;
+    border: 3px solid black;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 button {
